@@ -1,0 +1,11 @@
+Answers:
+1> once (d)
+2> input splits (b)
+3> falult tolerance (c)
+4> hdfs-site.xml (c)
+5> logical (b)
+6> namenode (d)
+7> pipeline (b)
+8> close() (a)
+9> DFSInputStream (a)
+10> 100 (c)
